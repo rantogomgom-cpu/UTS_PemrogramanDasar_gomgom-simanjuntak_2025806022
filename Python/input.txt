@@ -1,0 +1,3 @@
+Ini adalah contoh file input untuk analisis teks otomatis.
+Belajar python itu menyenangkan.
+Python membantu membuat program.
