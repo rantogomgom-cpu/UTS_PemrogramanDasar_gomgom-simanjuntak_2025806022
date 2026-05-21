@@ -104,7 +104,7 @@ void cariData() {
 
 void hapusData() {
     char cari[20];
------------------------------===================================----------------------------
+
     printf("Masukkan NIM yang akan dihapus : ");
     scanf("%s", cari);
 

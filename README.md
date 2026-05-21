@@ -1,28 +1,53 @@
-# UTS Pemrograman Dasar
+# 🧠 UTS Pemrograman Dasar (C & Python)
 
-Nama : GOMGOM SIMANJUNTAK
-NIM  : 2025806022
+## 👤 Identitas
+- Nama: Gomgom Simanjuntak
+- NIM: [2025806022]
+- Kelas: Tekfo 2 Pagi
+- Dosen: Bpk. Rintis Mahardika
+- Repository: 
 
-## Program
-1. Sistem Data Mahasiswa (C)
-2. Guess Battle Game (Python)
-3. Analisis Teks Otomatis
-4. Konversi CSV ke JSON
+---
 
-## Cara Menjalankan
+## 📚 Deskripsi
+Proyek ini adalah Ujian Tengah Semester (UTS) Pemrograman Dasar, yang menggabungkan konsep C dan Python.  
+Mahasiswa diminta membuat beberapa proyek terpisah dengan fitur logika, struktur data, file handling, dan modular programming.
 
-### C
-gcc mahasiswa.c -o mahasiswa
-./mahasiswa
+---
 
-### Python
-python main.py
+## 🧩 Struktur Folder
 
-## Cara Push ke GitHub
+C/
+ ├── soal1_data_mahasiswa/
+ └── soal4_csv_json/
+ Python/
+ ├── soal2_game_guess/
+ ├── soal3_text_analyzer/
+ └── soal4_csv_to_json/
+ docs/# 🧠 UTS Pemrograman Dasar (C & Python)
 
-git init
-git add .
-git commit -m "feat: tambah program uts"
-git branch -M main
-git remote add origin https://github.com/USERNAME/NAMA_REPO.git
-git push -u origin main
+## 👤 Identitas
+- Nama: [Nama Lengkap]
+- NIM: [NIM]
+- Kelas: [Nama Kelas]
+- Dosen: [Nama Dosen Pengampu]
+- Repository: [link GitHub repo]
+
+---
+
+## 📚 Deskripsi
+Proyek ini adalah Ujian Tengah Semester (UTS) Pemrograman Dasar, yang menggabungkan konsep C dan Python.  
+Mahasiswa diminta membuat beberapa proyek terpisah dengan fitur logika, struktur data, file handling, dan modular programming.
+
+---
+
+## 🧩 Struktur Folder
+
+C/
+ ├── soal1_data_mahasiswa/
+ 
+ Python/
+ ├── soal2_guess_battle/
+ ├── soal3_analyzer/
+ └── soal4_csv_to_json/
+ docs/

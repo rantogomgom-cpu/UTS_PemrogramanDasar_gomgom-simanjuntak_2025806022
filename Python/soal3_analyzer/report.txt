@@ -1,0 +1,20 @@
+===== HASIL ANALISIS =====
+
+Jumlah Baris : 3
+Jumlah Kata : 17
+Jumlah Huruf Vokal : 41
+Jumlah Huruf Konsonan : 64
+
+===== TOP 5 KATA =====
+python : 2
+ini : 1
+adalah : 1
+contoh : 1
+file : 1
+
+===== GRAFIK ASCII =====
+python ##
+ini #
+adalah #
+contoh #
+file #
